@@ -14,6 +14,6 @@ Authors: Joshua S Pace (a), Grace Matheson (a), Gauri Malankar (b), Lei Wang (b,
 
 Contact Mark Niedre with any questions:
 
-m dot niedre at northeastern dot edu
+niedrelab@outlook.com
 
 Associated data available on Pennsieve data sharing platform [DOI: 10.26275/btt6-puqw](https://discover.pennsieve.io/datasets/346)
