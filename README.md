@@ -16,4 +16,4 @@ Contact Mark Niedre with any questions:
 
 niedrelab@outlook.com
 
-Associated data available on Pennsieve data sharing platform [DOI: 10.26275/btt6-puqw](https://discover.pennsieve.io/datasets/346)
+Associated data available on Pennsieve data sharing platform [DOI: 10.26275/btt6-puqw](https://discover.pennsieve.io/datasets/346/version/3)
